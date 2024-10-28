@@ -1,6 +1,6 @@
 # Agreement Management System
 
-A modern web application for creating and managing digital agreements between parties, built with React, TypeScript, and Tailwind CSS.
+A first prototype for a web application for creating and managing digital agreements between parties, built with React, TypeScript, and Tailwind CSS.
 
 ## Features
 

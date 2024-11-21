@@ -1,6 +1,7 @@
 # Agreement Management System
 
-A first prototype for a web application for creating and managing digital agreements between parties, built with React, TypeScript, and Tailwind CSS.
+A first prototype for a web application that allows for creating and managing digital agreements between individuals, parties and organizations.
+Built with React, TypeScript, and Tailwind CSS.
 
 ## Features
 
@@ -64,6 +65,9 @@ agreement-management-system/
 ├── tailwind.config.js
 └── README.md
 ```
+
+## Outlook
+Create a dedicated, autonomous agent, removing the need for a centralized interface.
 
 ## Contributing
 

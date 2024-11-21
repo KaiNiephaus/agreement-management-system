@@ -69,6 +69,9 @@ agreement-management-system/
 ## Outlook
 Create a dedicated, autonomous agent, removing the need for a centralized interface.
 
+Functionalities:
+• Derive/Prepopulate/prompt Agreements
+
 ## Contributing
 
 1. Fork the repository

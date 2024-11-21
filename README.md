@@ -3,7 +3,7 @@
 A first prototype for a web application that allows for creating and managing digital agreements between individuals, parties and organizations.
 Built with React, TypeScript, and Tailwind CSS.
 
-# Concept & Need
+# Concept & Value
 
 AIMS is a SaaS/Agent solution designed to streamline the creation, negotiation, and management of inter-personal and inter-departmental agreements 
 within an organization and external service partners or network organizations.

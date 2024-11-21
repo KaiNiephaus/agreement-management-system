@@ -1,9 +1,17 @@
-# Agreement Management System
+# AI-Powered Agreement Management System (AIMS)
 
 A first prototype for a web application that allows for creating and managing digital agreements between individuals, parties and organizations.
 Built with React, TypeScript, and Tailwind CSS.
 
-## Features
+# Concept & Need
+
+AIMS is a SaaS/Agent solution designed to streamline the creation, negotiation, and management of inter-personal and inter-departmental agreements 
+within an organization and external service partners or network organizations.
+Utilizing AI, AIMS automates drafting, provides real-time negotiation support, tracks compliance, governance and mediates disputes, 
+significantly reducing administrative burden and legal costs through facilitating seamless collaboration that improves overall organizational effectiveness.
+
+
+## Features, first prototype
 
 - Create digital agreements with detailed terms and conditions
 - Upload existing contract documents
